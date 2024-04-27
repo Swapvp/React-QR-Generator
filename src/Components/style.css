@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+}
+
+.input-container {
+    margin: 20px;
+}
+
+.input-container button {
+    border: 1px solid #000;
+    padding: 8px 16px;
+    background-color: hsl(0, 57%, 47%);
+    color: #fff;
+    border-radius: 3px;
+}
+
+.input-container button:hover { 
+    background-color: hsl(0, 57%, 37%)
+
+}
+
+
+.input-container input {
+    border: 1px solid #000;
+    padding: 8px 16px;
+    color: #000;
+    border-radius: 3px;
+}
